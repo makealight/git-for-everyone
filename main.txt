@@ -1,1 +1,2 @@
-Title : Git for Everyone
+Title: Git for Everyone
+Subtitle: Hellow. How are you
